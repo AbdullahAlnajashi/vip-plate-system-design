@@ -5,7 +5,7 @@ A mobile marketplace for buying, selling, and auctioning license plates in Saudi
 > **Academic team project.** Course: IS340 System Analysis and Design (2), King Saud University.
 > **Scope:** analysis and design only (requirements, UML models, test design). The project has no implementation.
 
-📄 **Full report:** [docs/VIP_Plate_Report.pdf](docs/VIP_Plate_Report.pdf) (18 pages)
+📄 **Full report:** [PDF](docs/VIP_Plate_Report.pdf) · [Word (editable)](docs/VIP_Plate_Report.docx) (18 pages)
 
 ---
 
